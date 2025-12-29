@@ -1,4 +1,5 @@
-Hangman Game 
+**Hangman Game** 
+
 📝 Project Title
 
 Hangman Game using Python
