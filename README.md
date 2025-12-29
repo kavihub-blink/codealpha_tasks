@@ -1,43 +1,44 @@
 **Hangman Game** 
 
-📝 Project Title
+📝** Project Title**
 
-Hangman Game using Python
+**Hangman Game using Python**
 
-📌 Description
+📌 **Description**
 
 This project is a simple text-based Hangman game developed using Python.
 The program randomly selects a word from a predefined list, and the user guesses the word letter by letter with a limited number of chances.
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
 Python
 Random module
 
-📥 Input
+📥 **Input**
 
 Single alphabet letter entered by the user
 
-📤 Output
+📤 **Output**
 
 Displays guessed letters, remaining chances
 Final result: Win or Game Over
 
-🚀 How to Run
+🚀 **How to Ru**n
 
 python hangman.py
 
-Stock Portfolio Tracker
-📝 Project Title
+**Stock Portfolio Tracker**
 
-Stock Portfolio Tracker using Python
+📝** Project Title**
 
-📌 Description
+**Stock Portfolio Tracker using Python**
+
+📌 **Description**
 
 This project calculates the total investment value based on user-entered stock names and quantities.
 Stock prices are predefined using a dictionary.
 
-🛠️ Technologies Used
+🛠️** Technologies Used**
 
 Python
 
@@ -45,47 +46,47 @@ Dictionary
 
 Loops & Conditional statements
 
-📥 Input
+📥** Input**
 
 Stock name
 
 Quantity of stocks
 
-📤 Output
-
+📤** Output
+**
 Individual investment value
 
 Total investment amount
 
-🚀 How to Run
+🚀** How to Run**
 python stock_portfolio_tracker.py
 
- Basic Chatbot
-📝 Project Title
+** Basic Chatbot**
+📝 **Project Title**
+**
+Basic Rule-Based Chatbot using Python**
 
-Basic Rule-Based Chatbot using Python
-
-📌 Description
+📌** Description**
 
 This is a simple rule-based chatbot that responds to user input using predefined conditions.
 The chatbot runs continuously until the user types “bye”.
 
-🛠️ Technologies Used
-
+🛠️** Technologies Used
+**
 Python
 
 if-elif conditions
 
 Loops
 
-📥 Input
+📥** Input**
 
 User text messages (hello, how are you, bye, etc.)
 
-📤 Output
+📤 **Output**
 
 Chatbot replies based on user input
 
-🚀 How to Run
+🚀 **How to Run**
 python basic_chatbot.py
 
